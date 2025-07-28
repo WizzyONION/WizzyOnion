@@ -3,18 +3,21 @@
 
 - 🔭 I’m currently working on: **Leetcode problems & JavaScript projects**
 - 🌱 I’m currently learning: **Frontend Web Dev, C++, and GitHub**
+- 🎓 Education: **B.Sc. Mathematics – Currently in 3rd Semester**
 - 👯 I’m looking to collaborate on: **Open-source projects and mini apps**
-- 💬 Ask me about: **C++,html, css, JavaScript, Git, DSA**
+- 💬 Ask me about: **HTML, CSS, JavaScript, DSA, C++**
 - 📫 How to reach me: **piyushkar23@gmail.com**
-- ⚡ Fun fact: *I love anime and debugging at 2 AM 😄*
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -30,7 +33,6 @@
 </p>
 
 ---
-
 
 ### ✨ Inspiration
 

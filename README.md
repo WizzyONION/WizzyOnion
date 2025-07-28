@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on: **Leetcode problems & JavaScript projects**
 - 🌱 I’m currently learning: **Frontend Web Dev, C++, and GitHub**
 - 👯 I’m looking to collaborate on: **Open-source projects and mini apps**
-- 💬 Ask me about: **C++, JavaScript, Git, DSA**
-- 📫 How to reach me: **wizzyonion@gmail.com**
+- 💬 Ask me about: **C++,html, css, JavaScript, Git, DSA**
+- 📫 How to reach me: **piyushkar23@gmail.com**
 - ⚡ Fun fact: *I love anime and debugging at 2 AM 😄*
 
 ---
